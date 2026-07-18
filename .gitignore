@@ -1,1 +1,10 @@
-
+node_modules
+dist
+.next
+.wrangler
+.vinext
+.env
+.env.local
+.env*.local
+*.log
+.DS_Store
